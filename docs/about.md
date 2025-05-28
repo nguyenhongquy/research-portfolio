@@ -54,4 +54,4 @@ With a PhD in Linguistics from The Chinese University of Hong Kong and an MSc in
 
 ---
 
-Thanks for stopping by! Feel free to explore my [projects](/#portfolio) or check out my [blog](/blog) for insights and tutorials.
+Thanks for stopping by!
