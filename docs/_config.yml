@@ -2,7 +2,8 @@
 title: Quy Nguyen
 email: quy.nguyenhong21@gmail.com
 url: https://github.com/nguyenhongquy
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+baseurl: "/research-portfolio"
+description: "A hub for projects and insights at the intersection of Natural Language Processing, Generative AI, and translation evaluation. Explore cutting-edge techniques in in-context learning, prompt engineering, and explainable AI — from academic research to real-world applications."
 keywords: "natural language processing, nlp, machine learning, language teaching, chinese, vietnamese, german, english, translation, large language models, llm"
 skills: "Computational Linguist | Multilingual Technologist"
 meta_author: Quy Nguyen
