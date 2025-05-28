@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+# date: 2014-07-18
+img: trans_eval.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: March 2025
+# client: Start Bootstrap
+category: Large Language Model
+github-link: https://github.com/nguyenhongquy/trans_eval.git
+description: This project explores how GPT-4o can be applied to enhance translation quality assurance in enterprise settings. It introduces a scalable, reference-less evaluation framework that detects, explains, and corrects translation errors in a human-like manner. By combining advanced prompting strategies with domain-aware retrieval, the system delivers explainable and actionable feedback suitable for integration into professional translation workflows. The reimplementation leverages open-source LLMs and will soon be released to support research and development in the field of AI-driven translation evaluation.
 ---

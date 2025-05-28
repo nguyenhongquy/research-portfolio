@@ -482,3 +482,61 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* ===== Custom Styles for About Page ===== */
+
+.hero {
+  background: linear-gradient(135deg, #1abc9c 0%, #16a085 100%);
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero .intro-heading {
+  font-size: 3em;
+  font-weight: 700;
+  margin: 0;
+}
+
+.content-section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: auto;
+  line-height: 1.7;
+}
+
+.content-section h2 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.content-section ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.content-section ul li::before {
+  content: "• ";
+  color: #1abc9c;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.section-divider {
+  border-top: 2px solid #eee;
+  margin: 50px 0;
+}
+
+@media (max-width: 768px) {
+  .hero .intro-heading {
+    font-size: 2em;
+  }
+
+  .content-section {
+    padding: 30px 15px;
+  }
+}

@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+img: plausi_llama.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Feb 2024
+category: Large Language Models
+github-link: https://github.com/nguyenhongquy/semplaus.git
+description: In this project, we investigated how different NLP methods can assess semantic plausibility—the ability to distinguish plausible from implausible events in language. We evaluated classical machine learning models, fine-tuned RoBERTa models, and large language models like Llama 2 across three diverse datasets (PEP, PAP, ADEPT). Through rigorous experimentation, we found that RoBERTa fine-tuning consistently achieved the highest performance, while Llama 2—fine-tuned with minimal resources via QLoRA—showed promising results, especially when augmented with explanations (PAP-Explainer). This project highlights the strengths and limitations of each approach, offering insights into modeling semantic plausibility and generating explainable judgments using modern LLMs.
 ---

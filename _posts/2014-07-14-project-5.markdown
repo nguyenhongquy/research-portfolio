@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+img: pos.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2022
+github-link: https://github.com/nguyenhongquy/pos_Tagger.git
+category: Conditional Random Field
+description: In this project, we addressed the challenge of part-of-speech tagging for unknown words in Mandarin Chinese—a language with minimal inflection and highly ambiguous affixes. We implemented a Conditional Random Field (CRF) model enriched with a set of morphological features inspired by Tseng et al. (2005) and extended with additional name patterns, affixation markers, and data from external corpora. Our experiments showed that these features significantly improve tagging accuracy, especially for unknown tokens. The results highlight the value of morphological cues and cross-corpus knowledge in improving the robustness of POS taggers for Chinese.
 ---

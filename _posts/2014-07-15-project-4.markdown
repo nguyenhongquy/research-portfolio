@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+img: dependency_parsing.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Feb 2023
+category: Averaged Perceptron
+github-link: https://github.com/nguyenhongquy/dependencyparser.git
+description: In this project, I built a graph-based dependency parser using Eisner’s algorithm and an Averaged Perceptron model. By combining efficient decoding with a rich feature set, the parser achieves strong performance on English and German datasets. This work showcases a simple yet effective approach to syntactic parsing with solid cross-linguistic generalization.
 ---

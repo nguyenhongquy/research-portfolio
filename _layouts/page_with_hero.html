@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body id="page-top" class="index">
+    {% include nav.html %}
+
+    <!-- Hero Section -->
+    <header class="hero">
+      <div class="container">
+        <div class="intro-text">
+          <div class="intro-heading">{{ page.title }}</div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Page Content -->
+    <section class="content-section">
+      <div class="container">
+        {{ content }}
+      </div>
+    </section>
+
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
+</html>

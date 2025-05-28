@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+img: hongkong_cancor.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: March 2022
+category: XML & SQL
+github-link: https://github.com/nguyenhongquy/hkcancor.git
+description: In this project, we explored sentence-final particles (SFPs)—a key grammatical feature of spoken Cantonese—by extracting and analyzing them from the Hong Kong Cantonese Corpus (HKCanCor). Using the PyCantonese Python library, we retrieved relevant utterances tagged with SFPs, stored the data in a structured MySQL database, and performed SQL-based linguistic queries. To enhance accessibility, we transformed query results into XML and HTML formats using XSLT. This workflow enabled detailed exploration of SFP distribution, combinations, and discourse functions, providing valuable insights into the syntactic and pragmatic roles of these expressive elements in Cantonese speech.
 ---

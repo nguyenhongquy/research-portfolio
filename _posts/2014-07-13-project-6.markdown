@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: recipe.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2023
+github-link: https://github.com/nguyenhongquy/adviser.git
+category: Language Models
+description: In this project, we fine-tuned the SOLOIST dialogue system—a GPT-2-based model—for the domain of recipe recommendation. Starting with just 40 annotated dialogues, we explored how SOLOIST could adapt to new tasks through data-efficient methods. Our approach included feeding additional examples, incorporating database query results, predicting dialogue policies, and using machine teaching to correct the model’s mistakes. Experimental results showed that increasing dialogue variety and applying machine teaching significantly improved the system's ability to generate relevant, coherent responses. This project highlights the flexibility of end-to-end dialogue models and the importance of structured training strategies for domain-specific adaptation.
 ---

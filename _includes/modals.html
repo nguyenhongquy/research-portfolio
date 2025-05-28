@@ -25,17 +25,28 @@
                 <strong>{{ post.client }}</strong>
               </li>
               {% endif %}
+
               {% if post.project-date %}
               <li>Date:
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
+
               {% if post.category %}
-              <li>Service:
+              <li>Technology:
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
+                         
             </ul>
+            {% if post.github-link %}
+            <p>
+              <a href="{{ post.github-link }}" class="btn btn-primary" target="_blank">
+                <i class="fa fa-code"></i> View on GitHub
+              </a>
+            </p>
+            {% endif %}
+
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>
